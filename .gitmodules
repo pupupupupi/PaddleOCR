@@ -1,0 +1,3 @@
+[submodule "PPOCRLabel"]
+	path = PPOCRLabel
+	url = https://github.com/PFCCLab/PPOCRLabel.git
